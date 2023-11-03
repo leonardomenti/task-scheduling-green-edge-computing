@@ -22,6 +22,6 @@ I conducted an experimental campaign, analyzing the performance of the integer l
 
 This thesis explores task scheduling in green edge computing, offering insights into eco-friendly and revenue-maximizing practices.
 
---
+---
 
 This project accompanies this [presentation](presentation.pdf) (Italian) and this [book](thesis.pdf) (Italian)
